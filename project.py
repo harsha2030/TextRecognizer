@@ -430,11 +430,11 @@ def login():
     screen2.geometry("1350x700")
     screen2.configure(background="black")
 
-    logo=ImageTk.PhotoImage(file="C:/Users/nikhil/Desktop/PROJECT/user_icon.jpg")
+    logo=ImageTk.PhotoImage(file="https://github.com/NilayaGaddepati/MiniProject/blob/main/imgs/user_icon.jpg")
    
     
-    u_icon=PhotoImage(file="C:/Users/nikhil/Desktop/PROJECT/username_icon2.png")
-    p_icon=PhotoImage(file="C:/Users/nikhil/Desktop/PROJECT/pass_icon.png")
+    u_icon=PhotoImage(file="https://github.com/NilayaGaddepati/MiniProject/blob/main/imgs/username_icon2.png")
+    p_icon=PhotoImage(file="https://github.com/NilayaGaddepati/MiniProject/blob/main/imgs/pass_icon.png")
 
 
     
