@@ -375,8 +375,8 @@ def register():
     global Register_Frame
     global u_icon2
     global p_icon2
-    u_icon2=PhotoImage(file="C:/Users/nikhil/Desktop/PROJECT/username_icon2.png")
-    p_icon2=PhotoImage(file="C:/Users/nikhil/Desktop/PROJECT/pass_icon.png")
+    u_icon=PhotoImage(file="https://github.com/NilayaGaddepati/MiniProject/blob/main/imgs/username_icon2.png")
+    p_icon=PhotoImage(file="https://github.com/NilayaGaddepati/MiniProject/blob/main/imgs/pass_icon.png")
     
     
     username=StringVar()
